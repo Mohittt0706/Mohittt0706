@@ -22,5 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mohitparmar06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohitparmar06&icon=7&color=8)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=Mohitparmar06&color=blueviolet&style=for-the-badge)
