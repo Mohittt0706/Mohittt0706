@@ -3,16 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tf.mohit06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
-🚀 Developing high-quality websites and AI-powered solutions.<br>💼 Accepting Freelance Web Development Projects and Client Work.<br>🤝 Open to collaborating with developers, startups, and businesses.<br>🌱 Learning Full Stack Development, AI/ML, and Modern Web Technologies.<br>💬 Ask me about React.js, Node.js, Python, C++, Git, and GitHub.<br>💻 Turning ideas into fast, modern, and user-friendly websites.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tf.mohit06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
-🚀 Developing high-quality websites and AI-powered solutions.<br>💼 Accepting Freelance Web Development Projects and Client Work.<br>🤝 Open to collaborating with developers, startups, and businesses.<br>🌱 Learning Full Stack Development, AI/ML, and Modern Web Technologies.<br>💬 Ask me about React.js, Node.js, Python, C++, Git, and GitHub.<br>💻 Turning ideas into fast, modern, and user-friendly websites.
-
-
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tf.mohit06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-parmar-820a79335) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Leo0627P) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parmarmohit0627@gmail.com) 
 
 # 💻 Tech Stack:
