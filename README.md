@@ -82,11 +82,6 @@ A modern Human Resource Management System featuring:
 
 ---
 
-## 🚦 Smart Traffic Management System
-
-AI-powered adaptive traffic signal optimization using Reinforcement Learning, traffic analytics, and emergency vehicle prioritization.
-
----
 
 ## 🐦 AvianGuard
 
@@ -172,4 +167,3 @@ Hackathon-winning project focused on wetland conservation and bird biodiversity 
 <p align="center">
 ⭐ If you like my work, consider giving a star to my repositories!
 </p>
-```
