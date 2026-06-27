@@ -160,7 +160,7 @@ Hackathon-winning project focused on wetland conservation and bird biodiversity 
 
 # 💡 Developer Motto
 
-> **"Code. Learn. Build. Repeat." 🚀**
+> **Code. Learn. Build. Repeat. 🚀**
 
 ---
 
