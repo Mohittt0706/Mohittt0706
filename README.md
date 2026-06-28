@@ -136,13 +136,13 @@ Hackathon-winning project focused on wetland conservation and bird biodiversity 
 
 # 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohitparmar06&theme=github-compact)](https://github.com/Mohitparmar06)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohittt0706&theme=github-compact)](https://github.com/Mohittt0706)
 
 ---
 
 # 🐍 Contribution Snake
 
-![](https://raw.githubusercontent.com/Mohitparmar06/Mohitparmar06/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Mohittt0706/Mohittt0706/output/github-contribution-grid-snake.svg)
 
 ---
 
