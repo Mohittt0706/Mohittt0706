@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Mohitparmar06&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Mohittt0706&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
@@ -123,14 +123,13 @@ Hackathon-winning project focused on wetland conservation and bird biodiversity 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Mohitparmar06&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Mohittt0706&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Mohitparmar06&theme=radical&hide_border=true)
+![](https://streak-stats.demolab.com/?user=Mohittt0706&theme=radical&hide_border=true)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohitparmar06&theme=radical&hide_border=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohittt0706&theme=radical&hide_border=true&layout=compact)
 
 ---
 
@@ -154,7 +153,7 @@ Hackathon-winning project focused on wetland conservation and bird biodiversity 
 
 # 🔝 Top Contributed Repository
 
-![](https://github-contributor-stats.vercel.app/api?username=Mohitparmar06&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mohittt0706&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
