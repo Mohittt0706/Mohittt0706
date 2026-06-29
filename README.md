@@ -72,8 +72,6 @@
 - Reports & Analytics
 - Admin Dashboard
 
-## 🚦 Smart Traffic Management System
-AI-powered adaptive traffic signal optimization using Reinforcement Learning, emergency vehicle priority, and real-time analytics.
 
 ## 🐦 AvianGuard
 Hackathon-winning project focused on wetland conservation and bird biodiversity.
