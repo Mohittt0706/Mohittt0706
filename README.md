@@ -44,8 +44,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/mohit-parmar-820a79335"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:parmarmohit0706@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/tf.mohit06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/TERA_NEW_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/tf.mohit07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://x.com/Leo0706P"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 
 ---
@@ -64,17 +64,62 @@
 
 # 🚀 Featured Projects
 
-## 🌐 Modern HRMS
-- Employee Management
-- Attendance Tracking
-- Leave Management
-- Payroll
-- Reports & Analytics
-- Admin Dashboard
+## 🧠 ArthiX
+Multi-agent AI system designed for stock market research, analysis, and intelligent financial insights.
+
+- 🤖 Multi-Agent AI Architecture
+- 📊 Stock Market Analysis
+- 🔍 Research & Data Analysis
+- 🧠 AI-powered Insights
 
 
 ## 🐦 AvianGuard
-Hackathon-winning project focused on wetland conservation and bird biodiversity.
+Hackathon-winning project focused on wetland conservation and bird biodiversity through technology-driven solutions.
+
+- 🐦 Bird Biodiversity
+- 🌿 Wetland Conservation
+- 📊 Data & Insights
+- 🌐 Web-based Solution
+
+
+## 🌐 Modern HRMS
+Full-stack Human Resource Management System designed to simplify and centralize everyday HR operations.
+
+- 👥 Employee Management
+- 🕐 Attendance & Leave Tracking
+- 💰 Payroll Management
+- 📊 Reports & Analytics
+- 🔐 Admin Dashboard
+
+
+## 🚚 Odoo TransitOps
+Transportation and logistics management solution focused on streamlining transit operations and improving workflow efficiency.
+
+
+## 🌍 Odoo GlobeTrotter
+Travel planning and itinerary management application designed to help users organize and manage their travel experiences.
+
+
+## 🎫 Event & Ticket Management System
+Web-based platform for managing events, registrations, and ticketing workflows.
+
+- 🎟️ Ticket Management
+- 📅 Event Management
+- 👥 Registration Management
+- 📊 Event Tracking
+
+
+## 🌱 FasalDristhi
+Agriculture-focused technology solution designed to provide useful insights and support smarter crop-related decision making.
+
+
+## 🍽️ Restaurant Management & Delivery Tracking
+Web-based system designed to manage restaurant operations and track food delivery workflows.
+
+- 🍔 Restaurant Management
+- 📦 Order Management
+- 🚚 Delivery Tracking
+- 📊 Operational Monitoring
 
 ---
 
@@ -86,25 +131,39 @@ Hackathon-winning project focused on wetland conservation and bird biodiversity.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Database
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools & Cloud
+### AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+### Odoo & ERP
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+### Tools & Development
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Cloud
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
