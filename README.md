@@ -198,10 +198,6 @@ Web-based system designed to manage restaurant operations and track food deliver
 
 ---
 
-# 🔝 Top Contributed Repository
-
-![](https://github-contributor-stats.vercel.app/api?username=Mohittt0706&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 
 # 💡 Developer Motto
