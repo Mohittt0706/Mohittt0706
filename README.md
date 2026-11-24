@@ -64,15 +64,6 @@
 
 # 🚀 Featured Projects
 
-## 🧠 ArthiX
-Multi-agent AI system designed for stock market research, analysis, and intelligent financial insights.
-
-- 🤖 Multi-Agent AI Architecture
-- 📊 Stock Market Analysis
-- 🔍 Research & Data Analysis
-- 🧠 AI-powered Insights
-
-
 ## 🐦 AvianGuard
 Hackathon-winning project focused on wetland conservation and bird biodiversity through technology-driven solutions.
 
